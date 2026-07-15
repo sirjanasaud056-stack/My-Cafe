@@ -1,6 +1,8 @@
+alert("This Cafe is not exist in real life!");
+
 // Welcome message
 window.onload = function () {
-    alert("☕ Welcome to Bean & Brew Café!");
+    alert("☕ Welcome to Suzu Café!");
 };
 
 // Contact Form Submission
